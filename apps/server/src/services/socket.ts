@@ -3,18 +3,18 @@ import {Server, Socket} from 'socket.io';
 import  Redis  from 'ioredis';
 
 const pub = new Redis({
-    host: 'redis-1e59bed7-shivam-efe5.a.aivencloud.com', 
-    port : 15294, 
+    host: 'redis--shivam-efe5.a.aivencloud.com', 
+    port : 152n,94, 
     username : 'default', 
-    password : 'AVNS_WozbOgXOHAvfnrUDp5v'
+    password : 'AVNS_Dp5v'
 
 });
 
 const sub = new Redis({
-    host: 'redis-1e59bed7-shivam-efe5.a.aivencloud.com', 
-    port : 15294, 
+    host: 'redis-1e59bed7-shencloud.com', 
+    port : 194, 
     username : 'default', 
-    password : 'AVNS_WozbOgXOHAvfnrUDp5v'
+    password : 'AVNSUDp5v'
 
 });
 
